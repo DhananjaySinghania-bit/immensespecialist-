@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Dhananjay</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" />
+    
+    <!-- Google Font: Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-md mx-auto bg-white rounded-2xl shadow-lg overflow-hidden">
+        <div class="p-8">
+            <div class="text-center mb-8">
+                <h1 class="text-3xl font-bold text-gray-800">Contact Dhananjay</h1>
+                <p class="mt-2 text-gray-600">Neeche diye gaye kisi bhi platform ke madhyam se humse judein.</p>
+            </div>
+
+            <div class="space-y-4">
+                
+                <!-- WhatsApp -->
+                <a href="https://wa.me/919219671761" target="_blank" class="group flex items-center justify-center w-full px-4 py-3 font-semibold text-white bg-[#25D366] rounded-lg shadow-md hover:bg-[#1DAE55] transition-transform transform hover:scale-105 duration-300">
+                    <i class="fab fa-whatsapp text-2xl mr-3"></i>
+                    <span>WhatsApp</span>
+                </a>
+
+                <!-- Telegram -->
+                <a href="https://t.me/cytoaispecialist" target="_blank" class="group flex items-center justify-center w-full px-4 py-3 font-semibold text-white bg-[#0088cc] rounded-lg shadow-md hover:bg-[#0077b3] transition-transform transform hover:scale-105 duration-300">
+                    <i class="fab fa-telegram-plane text-2xl mr-3"></i>
+                    <span>Telegram</span>
+                </a>
+
+                <!-- Instagram -->
+                <a href="https://instagram.com/mbbs66_ms" target="_blank" class="group flex items-center justify-center w-full px-4 py-3 font-semibold text-white bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 rounded-lg shadow-md hover:opacity-90 transition-transform transform hover:scale-105 duration-300">
+                    <i class="fab fa-instagram text-2xl mr-3"></i>
+                    <span>Instagram</span>
+                </a>
+
+                <!-- Gmail 1 -->
+                <a href="mailto:miniaccesssurg@gmail.com" class="group flex items-center justify-center w-full px-4 py-3 font-semibold text-white bg-[#EA4335] rounded-lg shadow-md hover:bg-[#d93025] transition-transform transform hover:scale-105 duration-300">
+                    <i class="far fa-envelope text-2xl mr-3"></i>
+                    <span>Gmail 1</span>
+                </a>
+
+                <!-- Gmail 2 -->
+                <a href="mailto:immenseaiexperts@gmail.com" class="group flex items-center justify-center w-full px-4 py-3 font-semibold text-white bg-[#EA4335] rounded-lg shadow-md hover:bg-[#d93025] transition-transform transform hover:scale-105 duration-300">
+                    <i class="far fa-envelope text-2xl mr-3"></i>
+                    <span>Gmail 2</span>
+                </a>
+
+            </div>
+            
+            <div class="mt-8 text-sm text-center text-gray-500">
+                <p>Aapke message ka intezar rahega!</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
